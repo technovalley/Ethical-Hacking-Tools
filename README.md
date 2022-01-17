@@ -1,13 +1,11 @@
-  
 
-<br/>  
 
-<div align="right">
-<img src="https://www.technovalley.co.in/wp-content/uploads/2019/05/technovalley-new.png" align="right" height="200" width="" />
-</div>  
-  
+### About Technovalley   
+Technovalley Software India Private Ltd is an advanced technology company leveraging the potential of information technology for creating the best opportunities for businesses and individuals around the world. 
 
-<div align="center">Technovalley Software India Private Ltd is an advanced technology company leveraging the potential of information technology for creating best opportunities for businesses and individuals around the world. </div>  
+To know more about our training please visit : [internship.technovalley.co.in](https://internship.technovalley.co.in/index)
+
+Want to become a Hacker.?  Take a look at this : [Cyber Security Cadet](https://www.udemy.com/course/cyber-security-cadet-ethical-hacking-2021-latest-edition/)  
   
 
 <br/>  
