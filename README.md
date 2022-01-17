@@ -28,6 +28,3 @@ Want to become a Hacker.?  Take a look at this : [Cyber Security Cadet](https://
 - [Web Attacks](https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/Web%20Attacks)  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
