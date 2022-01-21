@@ -25,3 +25,5 @@
         <p dir="auto"><a href="https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/Web%20Attacks">Web Attacks</a></p>
     </li>
 </ul>
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/technovalley-aks/Ethical-Hacking-Tools/)
