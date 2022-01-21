@@ -1,3 +1,6 @@
+
+![HitCount](http://hits.dwyl.com/technovalley-aks/Ethical-Hacking-Tools.svg?style=flat-square)
+
 <h3 dir="auto">About Technovalley</h3>
 <p dir="auto">Technovalley Software India Private Ltd is an advanced technology company leveraging the potential of information technology for creating the best opportunities for businesses and individuals around the world.</p>
 <p dir="auto">To know more about our training please visit : <a href="https://internship.technovalley.co.in/index" rel="nofollow">internship.technovalley.co.in</a></p>
@@ -25,5 +28,3 @@
         <p dir="auto"><a href="https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/Web%20Attacks">Web Attacks</a></p>
     </li>
 </ul>
-[HitCount](http://hits.dwyl.com/technovalley-aks/Ethical-Hacking-Tools.svg?style=flat-square)](http://hits.dwyl.com/technovalley-aks/Ethical-Hacking-Tools)
-
