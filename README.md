@@ -12,7 +12,7 @@ Want to become a Hacker.?  Take a look at this : [Cyber Security Cadet](https://
 
 
 ## Tools List  
--[Footprinting Tools](https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/FOOTPRINTING%20TOOLS/whois-lookup%20Tools)
+- [Footprinting Tools](https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/FOOTPRINTING%20TOOLS/whois-lookup%20Tools)
 
 
 - [ARP Poisoning](https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/ARP%20Poisoning)  
