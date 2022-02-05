@@ -1,36 +1,32 @@
-<h3 dir="ltr" style="line-height:1.38;margin-top:16pt;margin-bottom:4pt;"><span style="font-size:13.999999999999998pt;font-family:Arial;color:#434343;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Clearing Tracks</span></h3>
-<p><br></p>
-<div align="left" dir="ltr" style="margin-left:0pt;">
-    <table style="border:none;border-collapse:collapse;">
-        <tbody>
-            <tr style="height:0pt;">
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">SL NO</span></p>
-                </td>
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Name&nbsp;</span></p>
-                </td>
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Link</span></p>
-                </td>
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Description</span></p>
-                </td>
-            </tr>
-            <tr style="height:0pt;">
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">1</span></p>
-                </td>
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Log-Cleaner-For-Linux</span></p>
-                </td>
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><a href="https://github.com/M3hank/Log-Cleaner-For-Linux" style="text-decoration:none;"><span style="font-size:11pt;font-family:Arial;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">https://github.com/M3hank/Log-Cleaner-For-Linux</span></a></p>
-                </td>
-                <td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-                    <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">For Educational Purpose Only. This is A Simple Log Cleaner For clearing tracks of your Most the Activities like Command Line History, Authentication Logs,Mail logs, Cron Jobs etc.</span></p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+<table>
+	<tr>
+		<td>Sl. No </td>
+		<td>Name </td>
+		<td>Link</td>
+		<td>Description</td>
+	</tr>
+	<tr>
+		<td>01</td>
+		<td>Log-Cleaner-For-Linux</td>
+		<td><a href="https://github.com/M3hank/Log-Cleaner-For-Linux">https://github.com/M3hank/Log-Cleaner-For-Linux</a></td>
+		<td>For Educational Purpose Only. This is A Simple Log Cleaner For clearing tracks of your Most the Activities like Command Line History, Authentication Logs,Mail logs, Cron Jobs etc.</td>
+	</tr>
+	<tr>
+		<td>02</td>
+		<td>Covermyass</td>
+		<td><a href="https://github.com/sundowndev/covermyass">https://github.com/sundowndev/covermyass</a></td>
+		<td>Shell script to cover your tracks on UNIX systems. Designed for pen testing "covering tracks" phase, before exiting the infected server. Or, permanently disable system logs for post-exploitation.</td>
+	</tr>
+	<tr>
+		<td>03</td>
+		<td>moonwalk</td>
+		<td><a href="https://github.com/mufeedvh/moonwalk">https://github.com/mufeedvh/moonwalk</a></td>
+		<td>Cover your tracks during Linux Exploitation / Penetration Testing by leaving zero traces on system logs and file system timestamps.</td>
+	</tr>
+	<tr>
+		<td>04</td>
+		<td>untrack-url</td>
+		<td><a href="https://github.com/vbauerster/untrack-url">https://github.com/vbauerster/untrack-url</a></td>
+		<td>all tracking query params will be removed, before opening in browser, so nobody will earn money on you, except the seller</td>
+	</tr>
+</table>
