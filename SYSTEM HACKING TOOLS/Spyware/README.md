@@ -42,4 +42,28 @@
 		<td><a href="https://github.com/FrancescoDiSalesGithub/Deepin---JailBreak">https://github.com/FrancescoDiSalesGithub/Deepin---JailBreak</a></td>
 		<td>Script and study research on deepin that removes any bogus feature on Deepin</td>
 	</tr>
+	<tr>
+    <td>07</td>
+    <td>TrojanCockroach</td>
+    <td><a href="https://github.com/MinhasKamal/TrojanCockroach"> https://github.com/MinhasKamal/TrojanCockroach</a></td>
+    <td>A Stealthy Trojan Spyware </td>
+</tr>
+<tr>
+    <td>08</td>
+    <td>sAINT</td>
+    <td><a href="https://github.com/tiagorlampert/sAINT"> https://github.com/tiagorlampert/sAINT</a></td>
+    <td>(s)AINT is a Spyware Generator for Windows systems written in Java. [Discontinued]</td>
+</tr>
+<tr>
+    <td>09</td>
+    <td>Spyware </td>
+    <td><a href="https://github.com/pforro/Spyware"> https://github.com/pforro/Spyware</a></td>
+    <td>Python-based spyware for Windows that logs the foreground window activities, keyboard inputs. Furthermore it is able to take screenshots and and run shell commands in the background.</td>
+</tr>
+<tr>
+    <td>10</td>
+    <td>Agent-Tesla-Exploit </td>
+    <td><a href="https://github.com/yatt-ze/Agent-Tesla-Exploit"> https://github.com/yatt-ze/Agent-Tesla-Exploit</a></td>
+    <td>Agent Tesla Spyware C2 Exploit [PATCHED]</td>
+</tr>
 </table>
