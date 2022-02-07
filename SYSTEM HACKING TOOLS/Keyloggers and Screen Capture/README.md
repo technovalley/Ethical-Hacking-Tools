@@ -99,7 +99,7 @@
 		<td></td>
 		<td></td>
 		<td>
-			<a href=" "> </a>
+			<a href=""> </a>
 		</td>
 		<td></td>
 	</tr>
@@ -160,13 +160,13 @@
 	<tr>
 		<td>25</td>
 		<td>paradoxiaRAT</td>
-		<td><a href=" https://github.com/quantumcore/paradoxiaRAT"> https://github.com/quantumcore/paradoxiaRAT</a></td>
+		<td><a href="https://github.com/quantumcore/paradoxiaRAT"> https://github.com/quantumcore/paradoxiaRAT</a></td>
 		<td>Native Windows Remote access Tool.</td>
 	</tr>
 	<tr>
 		<td>26</td>
 		<td>TrojanCockroach</td>
-		<td><a href=" https://github.com/MinhasKamal/TrojanCockroach"> https://github.com/MinhasKamal/TrojanCockroach</a></td>
+		<td><a href="https://github.com/MinhasKamal/TrojanCockroach"> https://github.com/MinhasKamal/TrojanCockroach</a></td>
 		<td>A Stealthy Trojan Spyware</td>
 	</tr>
 	<tr>
@@ -178,25 +178,25 @@
 	<tr>
 		<td>28</td>
 		<td>RAT-via-Telegram</td>
-		<td><a href=" https://github.com/mvrozanti/RAT-via-Telegram"> https://github.com/mvrozanti/RAT-via-Telegram</a></td>
+		<td><a href="https://github.com/mvrozanti/RAT-via-Telegram"> https://github.com/mvrozanti/RAT-via-Telegram</a></td>
 		<td>Windows Remote Administration Tool via Telegram</td>
 	</tr>
 	<tr>
 		<td>29</td>
 		<td>Impost3r</td>
-		<td><a href=" https://github.com/ph4ntonn/Impost3r"> https://github.com/ph4ntonn/Impost3r</a></td>
+		<td><a href="https://github.com/ph4ntonn/Impost3r"> https://github.com/ph4ntonn/Impost3r</a></td>
 		<td>A linux password thief</td>
 	</tr>
 	<tr>
 		<td>30</td>
 		<td>keylogger</td>
-		<td><a href=" https://github.com/caseyscarborough/keylogger"> https://github.com/caseyscarborough/keylogger</a></td>
+		<td><a href="https://github.com/caseyscarborough/keylogger"> https://github.com/caseyscarborough/keylogger</a></td>
 		<td>A no-frills keylogger for macOS.</td>
 	</tr>
 	<tr>
 		<td>31</td>
 		<td>Richkware</td>
-		<td><a href=" https://github.com/richkmeli/Richkware"> https://github.com/richkmeli/Richkware</a></td>
+		<td><a href="https://github.com/richkmeli/Richkware"> https://github.com/richkmeli/Richkware</a></td>
 		<td>Framework for building Windows malware, written in C++</td>
 	</tr>
 	<tr>
@@ -208,51 +208,49 @@
 	<tr>
 		<td>33</td>
 		<td>StupidKeylogger</td>
-		<td>
-			<a href=" "> </a>
-		</td>
+		<td><a href=""> </a></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td></td>
 		<td></td>
-		<td><a href=" https://github.com/MinhasKamal/StupidKeylogger"> https://github.com/MinhasKamal/StupidKeylogger</a></td>
+		<td><a href="https://github.com/MinhasKamal/StupidKeylogger"> https://github.com/MinhasKamal/StupidKeylogger</a></td>
 		<td>A Terrific Keystroke Recorder</td>
 	</tr>
 	<tr>
 		<td>34</td>
 		<td>EGESPLOIT</td>
-		<td><a href=" https://github.com/EgeBalci/EGESPLOIT"> https://github.com/EgeBalci/EGESPLOIT</a></td>
+		<td><a href="https://github.com/EgeBalci/EGESPLOIT"> https://github.com/EgeBalci/EGESPLOIT</a></td>
 		<td>EGESPLOIT is a golang library for malware development, it has few unique functions for meterpreter integration.</td>
 	</tr>
 	<tr>
 		<td>35</td>
 		<td>wifi_keylogger</td>
-		<td><a href=" https://github.com/spacehuhn/wifi_keylogger"> https://github.com/spacehuhn/wifi_keylogger</a></td>
+		<td><a href="https://github.com/spacehuhn/wifi_keylogger"> https://github.com/spacehuhn/wifi_keylogger</a></td>
 		<td>DIY Arduino Wi-Fi Keylogger (Proof of Concept)</td>
 	</tr>
 	<tr>
 		<td>36</td>
 		<td>PyIris</td>
-		<td><a href=" https://github.com/not-sekiun/PyIris"> https://github.com/not-sekiun/PyIris</a></td>
+		<td><a href="https://github.com/not-sekiun/PyIris"> https://github.com/not-sekiun/PyIris</a></td>
 		<td>PyIris is a modular remote access trojan toolkit written in python targeting Windows and Linux systems.</td>
 	</tr>
 	<tr>
 		<td>37</td>
 		<td>technowlogger</td>
-		<td><a href=" https://github.com/PushpenderIndia/technowlogger"> https://github.com/PushpenderIndia/technowlogger</a></td>
+		<td><a href="https://github.com/PushpenderIndia/technowlogger"> https://github.com/PushpenderIndia/technowlogger</a></td>
 		<td>TechNowLogger is Windows/Linux Keylogger Generator which sends key-logs via email with other juicy target info</td>
 	</tr>
 	<tr>
 		<td>38</td>
 		<td>Hera Chrome Keylogger</td>
-		<td><a href=" https://github.com/UndeadSec/HeraKeylogger"> https://github.com/UndeadSec/HeraKeylogger</a></td>
+		<td><a href="https://github.com/UndeadSec/HeraKeylogger"> https://github.com/UndeadSec/HeraKeylogger</a></td>
 		<td>Chrome Keylogger Extension | Post Exploitation Tool </td>
 	</tr>
 	<tr>
 		<td>39</td>
 		<td>ToxicEye</td>
-		<td><a href=" https://github.com/LimerBoy/ToxicEye"> https://github.com/LimerBoy/ToxicEye</a></td>
+		<td><a href="https://github.com/LimerBoy/ToxicEye"> https://github.com/LimerBoy/ToxicEye</a></td>
 		<td>Program for remote control of windows computers via telegram bot. Written in C</td>
 	</tr>
 	<tr>
@@ -264,61 +262,61 @@
 	<tr>
 		<td>41</td>
 		<td>keylogger</td>
-		<td><a href=" https://github.com/MarinX/keylogger"> https://github.com/MarinX/keylogger</a></td>
+		<td><a href="https://github.com/MarinX/keylogger"> https://github.com/MarinX/keylogger</a></td>
 		<td>Basic keylogger in Go (no C deps)</td>
 	</tr>
 	<tr>
 		<td>42</td>
 		<td>WifiPassword-Stealer</td>
-		<td><a href=" https://github.com/aydinnyunus/WifiPassword-Stealer"> https://github.com/aydinnyunus/WifiPassword-Stealer</a></td>
+		<td><a href="https://github.com/aydinnyunus/WifiPassword-Stealer"> https://github.com/aydinnyunus/WifiPassword-Stealer</a></td>
 		<td>Get All Registered Wifi Passwords from Target Computer.</td>
 	</tr>
 	<tr>
 		<td>43</td>
 		<td>tas</td>
-		<td><a href=" https://github.com/hc0d3r/tas"> https://github.com/hc0d3r/tas</a></td>
+		<td><a href="https://github.com/hc0d3r/tas"> https://github.com/hc0d3r/tas</a></td>
 		<td>A tiny framework for easily manipulate the tty and create fake binaries.</td>
 	</tr>
 	<tr>
 		<td>44</td>
 		<td>RAT-Hodin-v2.9</td>
-		<td><a href=" https://github.com/Thibault-69/RAT-Hodin-v2.9"> https://github.com/Thibault-69/RAT-Hodin-v2.9</a></td>
+		<td><a href="https://github.com/Thibault-69/RAT-Hodin-v2.9"> https://github.com/Thibault-69/RAT-Hodin-v2.9</a></td>
 		<td>Remote Administration Tool for Linux</td>
 	</tr>
 	<tr>
 		<td>45</td>
 		<td>remote_hacker_probe</td>
-		<td><a href=" https://github.com/quantumcore/remote_hacker_probe"> https://github.com/quantumcore/remote_hacker_probe</a></td>
+		<td><a href="https://github.com/quantumcore/remote_hacker_probe"> https://github.com/quantumcore/remote_hacker_probe</a></td>
 		<td>Threat Emulation and Red Teaming Framework, The Hacking Software for normal peo</td>
 	</tr>
 	<tr>
 		<td>46</td>
 		<td>SpyGen</td>
-		<td><a href=" https://github.com/HouariZegai/SpyGen"> https://github.com/HouariZegai/SpyGen</a></td>
+		<td><a href="https://github.com/HouariZegai/SpyGen"> https://github.com/HouariZegai/SpyGen</a></td>
 		<td>A Spyware Generator for Windows systems</td>
 	</tr>
 	<tr>
 		<td>47</td>
 		<td>Orca</td>
-		<td><a href=" https://github.com/ZeroM3m0ry/Orca"> https://github.com/ZeroM3m0ry/Orca</a></td>
+		<td><a href="https://github.com/ZeroM3m0ry/Orca"> https://github.com/ZeroM3m0ry/Orca</a></td>
 		<td>Advanced Malware with multi features written in ASM/C/C++ , work on all windows versions !</td>
 	</tr>
 	<tr>
 		<td>48</td>
 		<td>Spykeyboard</td>
-		<td><a href=" https://github.com/Sh4rk0-666/Spykeyboard"> https://github.com/Sh4rk0-666/Spykeyboard</a></td>
+		<td><a href="https://github.com/Sh4rk0-666/Spykeyboard"> https://github.com/Sh4rk0-666/Spykeyboard</a></td>
 		<td>keylogger which sends us the data to our gmail.</td>
 	</tr>
 	<tr>
 		<td>49</td>
 		<td>cromos</td>
-		<td><a href=" https://github.com/jimywork/cromos"> https://github.com/jimywork/cromos</a></td>
+		<td><a href="https://github.com/jimywork/cromos"> https://github.com/jimywork/cromos</a></td>
 		<td>Cromos is a tool for downloading legitimate extensions of the Chrome Web Store and inject codes in the background of the application.</td>
 	</tr>
 	<tr>
 		<td>50</td>
 		<td>Suriyaa's Keylogger</td>
-		<td><a href=" https://github.com/suriyaa/keylogger"> https://github.com/suriyaa/keylogger</a></td>
+		<td><a href="https://github.com/suriyaa/keylogger"> https://github.com/suriyaa/keylogger</a></td>
 		<td>Open Source Python Keylogger Collection</td>
 	</tr>
 </table>
