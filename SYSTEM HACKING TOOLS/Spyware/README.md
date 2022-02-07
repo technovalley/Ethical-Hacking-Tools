@@ -1,104 +1,45 @@
-<h3><span style="font-weight: 400;">Spyware</span></h3>
+<h3>Spyware</h3>
 <table>
-<tbody>
-<tr>
-<td>
-<p><span style="font-weight: 400;">Sl. No</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Name</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Link</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Description</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><span style="font-weight: 400;">1</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">V&aelig;v Platform 1.0</span></p>
-</td>
-<td>
-<p><a href="https://github.com/justvmexit/vaev"><span style="font-weight: 400;">https://github.com/justvmexit/vaev</span></a></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">An advanced malware framework.&nbsp;</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><span style="font-weight: 400;">2</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Fresh</span></p>
-</td>
-<td>
-<p><a href="https://github.com/YurinDoctrine/Fresh"><span style="font-weight: 400;">https://github.com/YurinDoctrine/Fresh</span></a></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Tons of functions for Windows 10|11 tweaking&nbsp;</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><span style="font-weight: 400;">3</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Advanced Keylogger with Webcam and Microphone Spy</span></p>
-</td>
-<td>
-<p><a href="https://github.com/rohitranaqh/Advanced-Keylogger-with-Webcam-and-Microphone-Spy"><span style="font-weight: 400;">https://github.com/rohitranaqh/Advanced-Keylogger-with-Webcam-and-Microphone-Spy</span></a></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Advanced Keylogger in Python with screenshot, microphone, webcam pictures taking capabilities and then send these files through email.&nbsp;</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><span style="font-weight: 400;">4</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">ADBLOAT</span></p>
-</td>
-<td>
-<p><a href="https://github.com/YurinDoctrine/adbloat"><span style="font-weight: 400;">https://github.com/YurinDoctrine/adbloat</span></a></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Android debloating via debugging on Linux or Windows&nbsp;</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><span style="font-weight: 400;">5</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">miniGestures</span></p>
-</td>
-<td>
-<p><a href="https://github.com/andre-st/chrome-gestures"><span style="font-weight: 400;">https://github.com/andre-st/chrome-gestures</span></a></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Mouse gestures browser-extension based on AJ Ribeiro's "miniGestures' ' (small, no ads, no spyware). This fork adds "Open New Tab in Background" + bug fixes&nbsp;</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><span style="font-weight: 400;">6</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Deepin---JailBreak</span></p>
-</td>
-<td>
-<p><a href="https://github.com/FrancescoDiSalesGithub/Deepin---JailBreak"><span style="font-weight: 400;">https://github.com/FrancescoDiSalesGithub/Deepin---JailBreak</span></a></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Script and study research on deepin that removes any bogus feature on Deepin&nbsp;</span></p>
-</td>
-</tr>
-</tbody>
+	<tr>
+		<td>Sl. No</td>
+		<td>Name</td>
+		<td>Link</td>
+		<td>Description</td>
+	</tr>
+	<tr>
+		<td>01</td>
+		<td>V&aelig;v Platform 1.0</td>
+		<td><a href="https://github.com/justvmexit/vaev">https://github.com/justvmexit/vaev</a></td>
+		<td>An advanced malware framework.</td>
+	</tr>
+	<tr>
+		<td>02</td>
+		<td>Fresh</td>
+		<td><a href="https://github.com/YurinDoctrine/Fresh">https://github.com/YurinDoctrine/Fresh</a></td>
+		<td>Tons of functions for Windows 10|11 tweaking</td>
+	</tr>
+	<tr>
+		<td>03</td>
+		<td>Advanced Keylogger with Webcam and Microphone Spy</td>
+		<td><a href="https://github.com/rohitranaqh/Advanced-Keylogger-with-Webcam-and-Microphone-Spy">https://github.com/rohitranaqh/Advanced-Keylogger-with-Webcam-and-Microphone-Spy</a></td>
+		<td>Advanced Keylogger in Python with screenshot, microphone, webcam pictures taking capabilities and then send these files through email.</td>
+	</tr>
+	<tr>
+		<td>04</td>
+		<td>ADBLOAT</td>
+		<td><a href="https://github.com/YurinDoctrine/adbloat">https://github.com/YurinDoctrine/adbloat</a></td>
+		<td>Android debloating via debugging on Linux or Windows</td>
+	</tr>
+	<tr>
+		<td>05</td>
+		<td>miniGestures</td>
+		<td><a href="https://github.com/andre-st/chrome-gestures">https://github.com/andre-st/chrome-gestures</a></td>
+		<td>Mouse gestures browser-extension based on AJ Ribeiro's "miniGestures' ' (small, no ads, no spyware). This fork adds "Open New Tab in Background" + bug fixes</td>
+	</tr>
+	<tr>
+		<td>06</td>
+		<td>Deepin---JailBreak</td>
+		<td><a href="https://github.com/FrancescoDiSalesGithub/Deepin---JailBreak">https://github.com/FrancescoDiSalesGithub/Deepin---JailBreak</a></td>
+		<td>Script and study research on deepin that removes any bogus feature on Deepin</td>
+	</tr>
 </table>
-<p>&nbsp;</p>
