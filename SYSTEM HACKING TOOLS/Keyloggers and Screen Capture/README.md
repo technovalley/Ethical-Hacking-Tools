@@ -96,14 +96,6 @@
 		<td>Windows keylogger that sends you it logs to telegram channel</td>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
-		<td>
-			<a href=""> </a>
-		</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>16</td>
 		<td>Stitch</td>
 		<td><a href="https://github.com/nathanlopez/Stitch"> https://github.com/nathanlopez/Stitch</a></td>
@@ -208,12 +200,6 @@
 	<tr>
 		<td>33</td>
 		<td>StupidKeylogger</td>
-		<td><a href=""> </a></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td></td>
 		<td><a href="https://github.com/MinhasKamal/StupidKeylogger"> https://github.com/MinhasKamal/StupidKeylogger</a></td>
 		<td>A Terrific Keystroke Recorder</td>
 	</tr>
