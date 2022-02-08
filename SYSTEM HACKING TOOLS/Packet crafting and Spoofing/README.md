@@ -72,19 +72,72 @@
 		<td>This is the code repository for the Ostinato network packet crafter and traffic generator</td>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
-		<td><a href=""></a></td>
-		<td></td>
+		<td>12</td>
+		<td>Httpinj</td>
+		<td><a href="https://github.com/l9c/httpinj">https://github.com/l9c/httpinj</a></td>
+		<td>HTTP injector inspired by QUANTUM from NSA </td>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
-		<td><a href=""></a></td>
+		<td>13</td>
+		<td>homer</td>
+		<td><a href="https://github.com/sipcapture/homer">https://github.com/sipcapture/homer</a></td>
+		<td>HOMER - 100% Open-Source SIP / VoIP / RTC Packet Capture & Monitoring </td>
+	</tr>
+
+	<tr>
+		<td>14</td>
+		<td>NetStalker</td>
+		<td><a href="https://github.com/hmz777/NetStalker">https://github.com/hmz777/NetStalker</a></td>
+		<td>A network tool to control the bandwidth over your local network. </td>
+	</tr>
+  
+	<tr>
+		<td>15</td>
+		<td>skydive</td>
+		<td><a href="https://github.com/skydive-project/skydive">https://github.com/skydive-project/skydive</a></td>
+		<td>An open source real-time network topology and protocols analyzer </td>
+	</tr>
+  
+	<tr>
+		<td>16</td>
+		<td>Python 3 Network Packet Sniffer</td>
+		<td><a href="https://github.com/EONRaider/Packet-Sniffer">https://github.com/EONRaider/Packet-Sniffer</a></td>
+		<td> A Network Packet Sniffing tool developed in Python 3. </td>
+	</tr>
+  
+	<tr>
+		<td>17</td>
+		<td>netsniff-ng</td>
+		<td><a href="https://github.com/netsniff-ng/netsniff-ng">https://github.com/netsniff-ng/netsniff-ng</a></td>
+		<td> A Swiss army knife for your daily Linux network plumbing.</td>
+	</tr>
+  
+	<tr>
+		<td>18</td>
+		<td>rvi_capture</td>
+		<td><a href="https://github.com/gh2o/rvi_capture">https://github.com/gh2o/rvi_capture</a></td>
+		<td>rvictl for Linux and Windows: capture packets sent/received by iOS devices </td>
+	</tr>
+  
+	<tr>
+		<td>19</td>
+		<td>Hawk</td>
+		<td><a href="https://github.com/medpaf/hawk">https://github.com/medpaf/hawk</a></td>
+		<td>Network, recon and offensive-security tool for Linux systems. </td>
+	</tr>
+  
+	<tr>
+		<td>20</td>
+		<td>xdp</td>
+		<td><a href="https://github.com/asavie/xdp">https://github.com/asavie/xdp</a></td>
 		<td></td>
 	</tr>
   
-  
-  
+	<tr>
+		<td>21</td>
+		<td>Divert</td>
+		<td><a href="https://github.com/basil00/Divert">https://github.com/basil00/Divert</a></td>
+		<td>WinDivert: Windows Packet Divert </td>
+	</tr>
   
 </table>
