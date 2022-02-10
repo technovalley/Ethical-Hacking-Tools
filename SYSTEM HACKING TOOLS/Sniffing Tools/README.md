@@ -102,4 +102,81 @@
 		<td><a href="https://github.com/zRedShift/mimemagic">https://github.com/zRedShift/mimemagic</a></td>
 		<td>Powerful and versatile MIME sniffing package using pre-compiled glob patterns, magic number signatures, XML document namespaces, and tree magic for mounted volumes, generated from the XDG shared-mime-info database.</td>
 	</tr>
+	<tr>
+		<td>17</td>
+		<td>Scapy</td>
+		<td><a href="https://github.com/secdev/scapy">https://github.com/secdev/scapy</a></td>
+		<td>Scapy is a powerful Python-based interactive packet manipulation program and library.</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>airgeddon</td>
+		<td><a href="https://github.com/v1s1t0r1sh3r3/airgeddon">https://github.com/v1s1t0r1sh3r3/airgeddon</a></td>
+		<td>This is a multi-use bash script for Linux systems to audit wireless networks. </td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td>WiFi-Pumpkin-deprecated</td>
+		<td><a href="https://github.com/P0cL4bs/WiFi-Pumpkin-deprecated">https://github.com/P0cL4bs/WiFi-Pumpkin-deprecated</a></td>
+		<td>The WiFi-Pumpkin is a rogue AP framework to easily create these fake networks, all while forwarding legitimate traffic to and from the unsuspecting target. </td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>BruteShark</td>
+		<td><a href="https://github.com/odedshimon/BruteShark">https://github.com/odedshimon/BruteShark</a></td>
+		<td>BruteShark is a Network Forensic Analysis Tool (NFAT) that performs deep processing and inspection of network traffic (mainly PCAP files, but it also capable of directly live capturing from a network interface).</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>esp_wifi_repeater </td>
+		<td><a href="https://github.com/martin-ger/esp_wifi_repeater">https://github.com/martin-ger/esp_wifi_repeater</a></td>
+		<td>This is an implementation of a WiFi NAT router on the esp8266 and esp8285. It also includes support for a packet filtering firewall with ACLs, port mapping, traffic shaping, hooks for remote monitoring</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>LIBPCAP</td>
+		<td><a href="https://github.com/the-tcpdump-group/libpcap">https://github.com/the-tcpdump-group/libpcap</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>ksniff</td>
+		<td><a href="https://github.com/eldadru/ksniff">https://github.com/eldadru/ksniff</a></td>
+		<td>A kubectl plugin that utilize tcpdump and Wireshark to start a remote capture on any pod in your Kubernetes cluster.</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>skydive</td>
+		<td><a href="https://github.com/skydive-project/skydive">https://github.com/skydive-project/skydive</a></td>
+		<td>Skydive is an open source real-time network topology and protocols analyzer. It aims to provide a comprehensive way of understanding what is happening in the network infrastructure.</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>Divert</td>
+		<td><a href="https://github.com/basil00/Divert">https://github.com/basil00/Divert</a></td>
+		<td>WinDivert: Windows Packet Divert </td>
+	<tr>
+		<td>26</td>
+		<td>HOMER</td>
+		<td><a href="https://github.com/sipcapture/homer">https://github.com/sipcapture/homer</a></td>
+		<td>HOMER is a robust, carrier-grade, scalable Packet and Event capture system and VoiP/RTC Monitoring Application based on the HEP/EEP protocol and ready to process & store insane amounts of signaling, rtc events, logs and statistics with instant search, end-to-end analysis and drill-down capabilities.</td>
+	</tr>
+	<tr>
+		<td>27</td>
+		<td>ksniff </td>
+		<td><a href="https://github.com/topics/sniffing">https://github.com/topics/sniffing</a></td>
+		<td>A kubectl plugin that utilize tcpdump and Wireshark to start a remote capture on any pod in your Kubernetes cluster.</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>libtins</td>
+		<td><a href="https://github.com/topics/sniffing">https://github.com/topics/sniffing</a></td>
+		<td>High-level, multiplatform C++ network packet sniffing and crafting library. </td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>go-sniffer</td>
+		<td><a href="https://github.com/40t/go-sniffer">https://github.com/40t/go-sniffer</a></td>
+		<td></td>
+	</tr>
 </table>
