@@ -66,13 +66,13 @@
 		<td>ARP-Spoofer</td>
 		<td><a href="https://github.com/vinsdragonis/ARP-Spoofer">https://github.com/vinsdragonis/ARP-Spoofer</td>
 		<td>This is supported only on UNIX environment, but can be targeted against any system irrespective of it&apos;s OS</td>
-		</tr>
+	</tr>
 	<tr>
 		<td>11</td>
 		<td>ARP-Spoofing</td>
 		<td><a href="https://github.com/aayuv17/ARP-Spoofing">https://github.com/aayuv17/ARP-Spoofing</td>
 		<td>Simulating a man-in-the-middle attack Using ARP Spoofing.</td>
-		</tr>
+	</tr>
 	<tr>
 		<td>12</td>
 		<td>Wifi-Spoof-Out&nbsp;</td>
@@ -84,5 +84,41 @@
 		<td>NetCut</td>
 		<td><a href="https://github.com/cdes5804/NetCut">https://github.com/cdes5804/NetCut</td>
 		<td>A simple tool to ban people&apos;s Internet connection with ARP spoofing.</td>
+	</tr>	
+	<tr>
+		<td>14</td>
+		<td>Arp-Spoofer</td>
+		<td><a href="https://github.com/EONRaider/Arp-Spoofer">https://github.com/EONRaider/Arp-Spoofer</td>
+		<td>A pure-Python ARP Cache Poisoning (a.k.a. "ARP Spoofing") tool that leverages a low-level assembly of Ethernet II frames and ARP packets.</td>
+	</tr>	
+	<tr>
+		<td>15</td>
+		<td>CSArp-Netcut</td>
+		<td><a href="https://github.com/globalpolicy/CSArp-Netcut">https://github.com/globalpolicy/CSArp-Netcut</td>
+		<td>An arpspoof program using Sharppcap </td>
+	</tr>	
+	<tr>
+		<td>16</td>
+		<td>arpjs</td>
+		<td><a href="https://github.com/skepticfx/arpjs">https://github.com/skepticfx/arpjs</td>
+		<td>Send ARP packets and read ARP tables using Javascript Standard - JavaScript Style Guide</td>
+	</tr>	
+	<tr>
+		<td>17</td>
+		<td>Hyenae NG</td>
+		<td><a href="https://github.com/r-richter/hyenae-ng">https://github.com/r-richter/hyenae-ng</td>
+		<td>Hyenae NG is an advanced cross-platform network packet generator and the successor of Hyenae.</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td> arp-validator</td>
+		<td><a href="https://github.com/rnehra01/arp-validator">https://github.com/rnehra01/arp-validator</td>
+		<td>Security Tool to detect arp poisoning attacks</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td>The-Eye</td>
+		<td><a href="https://github.com/EgeBalci/The-Eye">https://github.com/EgeBalci/The-Eye</td>
+		<td>Simple security surveillance script for linux distributions. The Eye can detect possible ARP poisoning, DNS spoofing and suspicous connections(meterpreter/reverse shell/bind shell) on tcp.</td>
 	</tr>
 </table>
