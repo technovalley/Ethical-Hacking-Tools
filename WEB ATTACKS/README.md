@@ -26,7 +26,7 @@
     <th>3</th>
     <th>scvault</th>
     <th>https://github.com/R0X4R/scvault</th>
-    <th>Custom scripts for directory fuzzing, subdomain enumeration and more.</th>
+    <th>Custom scripts for directory fuzzing, subdomain enumeration and more</th>
 </tr>
 
 <tr>
