@@ -5,16 +5,16 @@
         <tbody>
             <tr>
                 <td>
-                    <p>SL. NO</p>
+                    <h3 align="center">SL. NO</h3>
                 </td>
                 <td>
-                    <p>Tool Name&nbsp;</p>
+                    <h3 align="center">Name;</h3>
                 </td>
                 <td>
-                    <p>Link&nbsp;</p>
+                    <h3 align="center">Link</h3>
                 </td>
                 <td>
-                    <p>Description&nbsp;</p>
+                    <h3 align="center">Description;</h3>
                 </td>
             </tr>
             <tr>
