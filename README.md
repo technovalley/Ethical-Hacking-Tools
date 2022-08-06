@@ -10,7 +10,7 @@
 
 <!---------------------------------------------------------------HITS & CONTRIBUTERS-------------------------------------------------------------------->
 
-<h2 align="center" dir="auto">Contributors</h2>
+<h2 align="center" dir="auto">CONTRIBUTORS</h2>
 
 <p align="center">
 <a href="https://github.com/technovalley-aks/Ethical-Hacking-Tools/graphs/contributors"><img src="https://contrib.rocks/image?repo=technovalley-aks/Ethical-Hacking-Tools" />
@@ -22,7 +22,7 @@
 <!------------------------------------------------------------------TOOLS LIST-------------------------------------------------------------------------->
 
 <h2 dir="auto"><a aria-hidden="true" class="anchor" href="https://github.com/technovalley-aks/Ethical-Hacking-Tools#tools-list"></a></h2>
-<h2 dir="auto">Tools List</h2>
+<h2 dir="auto">TOOLS LIST</h2>
 
 <ul dir="auto">
     <li>
