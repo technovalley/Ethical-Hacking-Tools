@@ -84,7 +84,7 @@
                     <p><a href="https://github.com/LandGrey/pydictor">https://github.com/LandGrey/pydictor</a></p>
                 </td>
                 <td>
-                    <h5>A powerful and useful hacker dictionary builder for a brute-force attack</h5>
+                    A powerful and useful hacker dictionary builder for a brute-force attack.
                 </td>
             </tr>
             <tr>
