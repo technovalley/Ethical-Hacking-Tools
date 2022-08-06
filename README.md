@@ -24,22 +24,22 @@
 
 <ul dir="auto">
     <li>
-        <p dir="auto"><a href="https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/FOOTPRINTING%20TOOLS/whois-lookup%20Tools">Footprinting Tools</a></p>
+        <p dir="auto"><a href="https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/FOOTPRINTING%20TOOLS/whois-lookup%20Tools">FOOTPRINTING TOOLS</a></p>
     </li>
     <li>
-        <p dir="auto" id="isPasted"><a href="https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/SCANNING%20AND%20ENUMERATION%20TOOLS">Scanning and Enumeration Tools</a></p>
+        <p dir="auto" id="isPasted"><a href="https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/SCANNING%20AND%20ENUMERATION%20TOOLS">SCANNING & ENUMARATION TOOLS</a></p>
     </li>
     <li>
-        <p dir="auto"><a href="https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/MAC%20Flooding%20and%20Spoofing">System Hacking Tools</a></p>
+        <p dir="auto"><a href="https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/SYSTEM%20HACKING%20TOOLS">SYSTEM HACKING TOOLS</a></p>
     </li>
     <li>
-        <p dir="auto"><a href="https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/SCANNING%20AND%20ENUMERATION%20TOOLS">Cryptography and Encryption</a></p>
+        <p dir="auto"><a href="https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/CRYPTOGRAPHY%20AND%20ENCRYPTION">CRYPTOGRAPHY & ENCRYPTION TOOLS</a></p>
     </li>
     <li>
-        <p dir="auto" id="isPasted"><a href="https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/SCANNING%20AND%20ENUMERATION%20TOOLS">Sniffing</a></p>
+        <p dir="auto" id="isPasted"><a href="https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/SNIFFING">SNIFFING TOOLS</a></p>
     </li>
     <li>
-        <p dir="auto"><a href="https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/Web%20Attacks">Web Attacks</a></p>
+        <p dir="auto"><a href="https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/WEB%20ATTACKS">WEB ATTACKING TOOLS</a></p>
     </li>
 </ul>
 
