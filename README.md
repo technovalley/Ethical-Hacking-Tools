@@ -30,7 +30,7 @@
 
 <ul dir="auto">
     <li>
-        <p dir="auto"><a href="https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/FOOTPRINTING%20TOOLS/whois-lookup%20Tools">FOOTPRINTING TOOLS</a></p>
+        <p dir="auto"><a href="https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/FOOTPRINTING%20TOOLS">FOOTPRINTING TOOLS</a></p>
     </li>
     <li>
         <p dir="auto" id="isPasted"><a href="https://github.com/technovalley-aks/Ethical-Hacking-Tools/tree/main/SCANNING%20AND%20ENUMERATION%20TOOLS">SCANNING & ENUMARATION TOOLS</a></p>
