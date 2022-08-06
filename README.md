@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------INTRODUCTION-------------------------------------------------------------------->
 
-<h1 dir="auto">About Technovalley</h1>
+<h1 dir="auto">ABOUT TECHNOVALLEY</h1>
 
 <p dir="auto">Technovalley Software India Private Ltd is an advanced technology company leveraging the potential of information technology for creating the best opportunities for businesses and individuals around the world.</p>
 
