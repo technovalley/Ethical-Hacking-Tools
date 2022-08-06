@@ -1,6 +1,10 @@
-<!--------------------------------------------------------------INTRODUCTION-------------------------------------------------------------------->
+<!--------------------------------------------------------------------INTRODUCTION---------------------------------------------------------------------->
 
-<h1 align="center" dir="auto">TECHNOVALLEY</h1>
+<!----------------------------------------------------<h1 align="center" dir="auto">TECHNOVALLEY</h1>--------------------------------------------------->
+
+<h1 align="center" dir="auto">ABOUT TECHNOVALLEY</h1>
+
+
 
 <p align="center" dir="auto">Technovalley Software India Private Ltd is an advanced technology company leveraging the potential of information technology for creating the best opportunities for businesses and individuals around the world.</p>
 
@@ -8,7 +12,9 @@
 
 <p align="center" dir="auto">Want to become a Hacker...? Take a look at this : <a href="https://www.udemy.com/course/cyber-security-cadet-ethical-hacking-2021-latest-edition/" rel="nofollow">Cyber Security Cadet</a></p>
 
-<!---------------------------------------------------------------HITS & CONTRIBUTERS-------------------------------------------------------------------->
+<a href="#"><img width="100%" height="auto" src="https://github.com/aswinkrishnapb/aswinkrishnapb/blob/main/resources/technovalley.jpeg" height="175px"/></a>
+
+<!-------------------------------------------------------------------CONTRIBUTERS----------------------------------------------------------------------->
 
 <h2 align="center" dir="auto">CONTRIBUTORS</h2>
 
@@ -16,8 +22,6 @@
 <a href="https://github.com/technovalley-aks/Ethical-Hacking-Tools/graphs/contributors"><img src="https://contrib.rocks/image?repo=technovalley-aks/Ethical-Hacking-Tools" />
 </a>
 </p>
-
-![views](http://hits.dwyl.com/technovalley-aks/Ethical-Hacking-Tools.svg?style=flat) 
 
 <!------------------------------------------------------------------TOOLS LIST-------------------------------------------------------------------------->
 
@@ -45,4 +49,6 @@
     </li>
 </ul>
 
-<!------------------------------------------------------------------------------------------------------------------------------------------------------>
+<!--------------------------------------------------------------------HITS----------------------------------------------------------------------------->
+
+![views](http://hits.dwyl.com/technovalley-aks/Ethical-Hacking-Tools.svg?style=flat) 
