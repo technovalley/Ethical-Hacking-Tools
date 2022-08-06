@@ -8,13 +8,13 @@
                     <h3 align="center">SL. NO.</h3>
                 </td>
                 <td>
-                    <h3 align="center">Tool Name&nbsp;</h3>
+                    <h3 align="center">Tool Name</h3>
                 </td>
                 <td>
-                    <h3 align="center">Link&nbsp;</h3>
+                    <h3 align="center">Link</h3>
                 </td>
                 <td>
-                    <h3 align="center">Description&nbsp;</h3>
+                    <h3 align="center">Description</h3>
                 </td>
             </tr>
             <tr>
