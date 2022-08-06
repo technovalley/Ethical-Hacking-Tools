@@ -174,93 +174,51 @@
 		</td>
 		<td>
 			Encrypting data(image) in a data carrier on desired bits</p>
-	</td>
-	
+		</td>	
 	</tr>
 	
 	<tr>
-	
-	
-	
-	<td>
-
-	<p>12</p>
-	
-	</td>
-	
-	
-	
-	<td>
-
-	<p>BISMUTH</p>
-	
-	</td>
-	
-	
-	
-	<td>
-
-	<p><a href="https://github.com/curesium/bismuth">https://github.com/curesium/bismuth</a></p>
-	
-	</td>
-	
-	
-	
-	<td>
-
-	<p>A tool to decrypt and encrypt messages with code.</p>
-	
-	</td>
+		<td>
+			12
+		</td>
+		<td>
+			BISMUTH
+		</td>
+		<td>
+			<p><a href="https://github.com/curesium/bismuth">https://github.com/curesium/bismuth</a></p>
+		</td>
+		<td>
+			A tool to decrypt and encrypt messages with code.
+		</td>
 	</tr>
 	
 	<tr>
-	
-	
-	
-	<td>
-
-	<p>13</p>
-	
-	</td>
-	
-	
-	
-	<td>
-
-	<p>encryption-and-decryption</p>
-	
-	</td>
-	
-	
-	
-	<td>
-
-	<p><a href="https://github.com/shwetakumawat/encryption-and-decryption">https://github.com/shwetakumawat/encryption-and-decryption</a></p>
-	
-	</td>
-	
-	
-	
-	<td>
-
-	<p>encryption-and-decryption</p>
-	
-	</td>
+		<td>
+			13
+		</td>
+		<td>
+			encryption-and-decryption
+		</td>
+		<td>
+			<p><a href="https://github.com/shwetakumawat/encryption-and-decryption">https://github.com/shwetakumawat/encryption-and-decryption</a></p>
+		</td>
+		<td>
+			encryption-and-decryption
+		</td>
 	</tr>
 	
 	<tr>
-        <td>
-            14
-        </td>
-        <td>
-            CryptAnyL3
-        </td>
-        <td>
-            <a href="https://github.com/nebuhtit/CryptAnyL">https://github.com/nebuhtit/CryptAnyL</a>
-        </td>
-        <td>
-            An encrypt tool to encrypt any letter or files and create password for private key on your device.
-        </td>
+		<td>
+			14
+		</td>
+		<td>
+			CryptAnyL3
+		</td>
+		<td>
+			<p><a href="https://github.com/nebuhtit/CryptAnyL">https://github.com/nebuhtit/CryptAnyL</a></p>
+		</td>
+		<td>
+			<p>An encrypt tool to encrypt any letter or files and create password for private key on your device.</p>
+		</td>
 	</tr>
-
 </table>
