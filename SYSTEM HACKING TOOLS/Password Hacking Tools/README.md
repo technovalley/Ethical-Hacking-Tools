@@ -1,4 +1,4 @@
-<h1 align="center">Password Hacking Tools</h1>
+<h1 align="center">PASSWORD HACKING TOOLS</h1>
 
 <div align="left">
     <table>
